@@ -81,7 +81,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [uiverse](https://uiverse.io/buttons) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [googlefonts](https://googlefonts.com) - This helped me for get fonts . I really liked this website and will use it going forward.
 - [w3school](https://www.w3school.com) - This is an amazing article which helped me finally understand Css Grid and Flexbox. I'd recommend it to anyone still learning this concept.
 
 
