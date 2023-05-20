@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EL-Mehdiri/Huddle-Project/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL here](https://github.com/EL-Mehdiri/Huddle-Project/)
+- Live Site URL: [URL here](https://your-live-site-url.com)
 
 ## My process
 
