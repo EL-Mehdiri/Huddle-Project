@@ -363,6 +363,40 @@ footer i {
     }
 }
 
+@media(max-width:500px) {
+    button {
+        width: 99%;
+        font-size: 15px;
+        padding: 7px 20px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    .intro .text a {
+        font-size: 14px;
+    }
+
+    .popap button {
+        width: 75%;
+        padding: 20px;
+    }
+
+    footer a {
+        color: #fff;
+        font-size: 19px;
+    }
+
+    .new1 {
+        align-items: flex-start;
+    }
+
+    .icons {
+        width: 80%;
+    }
+}
+
 @media (max-width:376px) {
 
     button {
